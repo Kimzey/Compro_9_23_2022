@@ -1,0 +1,15 @@
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.csproj.AssemblyReference.cache
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.AssemblyInfoInputs.cache
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.AssemblyInfo.cs
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.csproj.CoreCompileInputs.cache
+C:\Users\MDT\Desktop\Code_Guitar\bin\Debug\net6.0\Code_Guitar.exe
+C:\Users\MDT\Desktop\Code_Guitar\bin\Debug\net6.0\Code_Guitar.deps.json
+C:\Users\MDT\Desktop\Code_Guitar\bin\Debug\net6.0\Code_Guitar.runtimeconfig.json
+C:\Users\MDT\Desktop\Code_Guitar\bin\Debug\net6.0\Code_Guitar.dll
+C:\Users\MDT\Desktop\Code_Guitar\bin\Debug\net6.0\Code_Guitar.pdb
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.dll
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\refint\Code_Guitar.dll
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.pdb
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\Code_Guitar.genruntimeconfig.cache
+C:\Users\MDT\Desktop\Code_Guitar\obj\Debug\net6.0\ref\Code_Guitar.dll
